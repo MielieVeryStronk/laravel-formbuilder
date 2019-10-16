@@ -1,4 +1,4 @@
-# Laravel Form Builder Package
+# Laravel Form Builder Package (Modified to build surveys specifically)
 
 A [Laravel](https://laravel.com) package for creating a drag-and-drop form builder using the [JQuery Form Builder](https://formbuilder.online).
 
